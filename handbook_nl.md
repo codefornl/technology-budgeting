@@ -1,14 +1,20 @@
-# De-risking custom technology projects
+# Risicobeperking van maatwerk technologieprojecten
 
-## A handbook for state budgeting and oversight
+## Handboek voor budgettering en toezicht
 
-August 5, 2019
+### Origineel
 
-By [Robin Carnahan](mailto:robin.carnahan@gsa.gov), [Randy Hart](mailto:randy.hart@gsa.gov), and [Waldo Jaquith](mailto:waldo.jaquith@gsa.gov)
+5 augustus 2019 https://github.com/18F/technology-budgeting
+
+Door [Robin Carnahan](mailto:robin.carnahan@gsa.gov), [Randy Hart](mailto:randy.hart@gsa.gov), and [Waldo Jaquith](mailto:waldo.jaquith@gsa.gov)
 
 18F, Technology Transformation Service, General Services Administration
 
+### Vertaling
 
+Door [Johan Groenen](mailto:johan@tiltshift.nl), ...
+
+Code for NL, Datalab Amsterdam, ...
 
 ## Table of contents
 
