@@ -46,7 +46,7 @@ Code for NL, Datalab Amsterdam, ...
 
 ## Introduction
 
-Only 13% of large government software projects are successful.<sup id="reference-1"><a href="#footnote-1">1</a></sup> State IT projects, in particular, are often challenged because states lack basic knowledge about modern software development, relying on outdated procurement processes.
+Slechts 13% van de grote overheids-ICT-projecten is succesvol <sup id="reference-1"><a href="#footnote-1">1</a></sup> (NL cijfer nodig). Vooral Rijks-IT projecten (referentie?) vormen een uitdaging vanwege het ontbreken van basiskennis over moderne softwareontwikkeling, waardoor wordt teruggevallen op verouderde aanbestedingsprocessen.
 
 State governments are increasingly reliant on modern software and hardware to deliver essential services to the public, and the success of any major policy initiative depends on the success of the underlying software infrastructure. Government agencies all confront similar challenges, facing budget and staffing constraints while struggling to modernize legacy technology systems that are out-of-date, inflexible, expensive, and ineffective.<sup id="reference-2"><a href="#footnote-2">2</a></sup> Government officials and agencies often rely on the same legacy processes that led to problems in the first place.
 
