@@ -16,16 +16,16 @@ Door [Johan Groenen](mailto:johan@tiltshift.nl), ...
 
 Code for NL, Datalab Amsterdam, ...
 
-## Table of contents
+## Inhoudsopgave
 
-- [Introduction](#introduction)
-- [Basic principles of modern software design](#basic-principles-of-modern-software-design)
-	- [User-centered design](#user-centered-design)
-	- [Agile software development](#agile-software-development)
+- [Introductie](#introduction)
+- [Basisprincipes van modern softwareontwerp en -ontwikkeling](#basic-principles-of-modern-software-design)
+	- [User centered design](#user-centered-design)
+	- [Agile software-ontwikkeling](#agile-software-development)
 	- [Product ownership](#product-ownership)
 	- [DevOps](#devops)
-	- [Building with loosely coupled parts](#building-with-loosely-coupled-parts)
-	- [Modular contracting](#modular-contracting)
+	- [Bouwen met "loosely coupled" onderdelen](#building-with-loosely-coupled-parts)
+	- [Modulair contracteren](#modular-contracting)
 - [Best practices for budgeting and overseeing tech projects](#best-practices-for-budgeting-and-overseeing-tech-projects)
 	- [Think about risk in a new way](#think-about-risk-in-a-new-way)
 	- [Procure services, not software](#procure-services-not-software)
