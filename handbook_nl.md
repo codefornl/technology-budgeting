@@ -1,4 +1,4 @@
-# Risicobeperking van maatwerk technologieprojecten
+# Risicobeperking bij maatwerk technologieprojecten
 
 ## Handboek voor budgettering en toezicht
 
@@ -48,30 +48,34 @@ Code for NL, Datalab Amsterdam, ...
 
 Slechts 13% van de grote overheids-ICT-projecten is succesvol <sup id="reference-1"><a href="#footnote-1">1</a></sup> (NL cijfer nodig). Vooral Rijks-IT projecten (referentie?) vormen een uitdaging vanwege het ontbreken van basiskennis over moderne softwareontwikkeling, waardoor wordt teruggevallen op verouderde aanbestedingsprocessen.
 
-State governments are increasingly reliant on modern software and hardware to deliver essential services to the public, and the success of any major policy initiative depends on the success of the underlying software infrastructure. Government agencies all confront similar challenges, facing budget and staffing constraints while struggling to modernize legacy technology systems that are out-of-date, inflexible, expensive, and ineffective.<sup id="reference-2"><a href="#footnote-2">2</a></sup> Government officials and agencies often rely on the same legacy processes that led to problems in the first place.
+Overheden zijn in steeds grotere mate afhankelijk van moderne software en hardware voor het leveren van essentiele publieke diensten, en het succes van grote beleidsinitiatieven hangt af van de onderliggende software-infrastructuur. Overheidsinstanties hebben stuk voor stuk hetzelfde soort uitdagingen, als ze met beperkte budgetten en ontbrekende kennis proberen de verouderde, inflexibele, dure, en ineffectieve technologische systemen te moderniseren.<sup id="reference-2"><a href="#footnote-2">2</a></sup> Ambtenaren en instanties zitten daarbij vaak vast aan precies die oude processen die ooit de basis vormden voor deze problemen.
 
-The public deserves a government that provides the same world-class technology they get from the commercial marketplace. Trust in government depends on it.
+Burgers en bedrijven verdienen een overheid die op hetzelfde kwaliteitsniveau diensten levert als de commerciele diensten. Het hele vertrouwen in de overheid hangt daarmee samen.
 
-This handbook is designed for executives, budget specialists, legislators, and other "non-technical" decision-makers who fund or oversee state government technology projects. It can help you set these projects up for success by asking the right questions, identifying the right outcomes, and equally important, empowering you with a basic knowledge of the fundamental principles of modern software design.
+Dit handboek is samengesteld voor bestuurders, budgetspecialisten, wetgevers, en andere "niet-technische" besluitvormers die verantwoordelijk zijn voor technologieprojecten in de overheid of daarvoor betalen. Het helpt je deze projecten in te richten voor succes, door de goede vragen te stellen en de juiste doelen te stellen, en het geeft je -minstens zo belangrijk- basiskennis van de fundamentele principes van modern software-ontwerp.
 
-This handbook also gives you the tools you need to start tackling related problems like:
+Daarnaast geeft dit handboek je de instrumenten die je nodig hebt om problemen op te lossen zoals:
 
-- The need to use, maintain, and modernize legacy systems simultaneously
-- Lock-in from legacy commercial arrangements
-- Siloed organizations and risk-averse cultures
-- Long budget cycles that don’t always match modern software design practices
-- Security threats
-- Hiring, staffing, and other resource constraints
+- de noodzaak om verouderde systemen te blijven gebruiken en onderhouden, terwijl je ze moderniseert
+- lock-in door verouderde commerciele afspraken
+- gesilode organisaties en risicoaverse bedrijfsculturen
+- lange aanbestedingsprocessen die niet altijd goed aansluiten op moderne software-ontwikkelaanpakken
+- beveiligingsrisico's
+- inhuur, bezetting, en andere beperkingen
 
-This is written specifically for procurement of custom software, but it’s important to recognize that commercial off-the-shelf software (COTS) is often custom and Software as a Service (SaaS) often requires custom code. Once any customization is made, the bulk of this advice in this handbook applies to these commercial offerings. (See "[Beware the customized commercial software trap](#beware-the-customized-commercial-software-trap)" for details.)
+Dit handboek is specifiek geschreven voor het inkopen van maatwerk software, maar het is belangrijk om te beseffen dat commerciele kant-en-klare software (COTS) vaak ook op maat is, en dat Software as a Service (SaaS) doorgaans ook klant-specifieke code vereist. Zodra er ook maar iets van een aanpassing wordt gemaakt, is het advies in dit handboek ook van toepassing op deze commerciele aanbiedingen. (Zie ook "[Pas op voor de op maat gemaakte software valkuil](#beware-the-customized-commercial-software-trap)" voor meer details.)
 
-As government leaders, we must be good stewards of public money by demanding easy-to-use, cost-effective, sustainable digital tools for use by the public and civil servants. This handbook will help you do just that.
+Als leiders binnen de overheid moeten we goede hoeders zijn van publiek geld, door eisen te stellen aan digitale toepassingen voor burgers en ambtenaren: eenvoudig in gebruik, kosteneffectief, en goed te onderhouden. Dit handboek helpt daarbij.
 
-### About the authors
+### Over de auteurs
 
 We work for [18F](https://18f.gov/), part of the Technology Transformation Services team at the [General Services Administration](https://www.gsa.gov/) (GSA). Collectively, the three of us have many years of experience in government procurement, software development, and state-level elective office.
 
 In work funded by GSA’s [10x](https://10x.gsa.gov/), we spent a year meeting with state legislators, legislative fiscal staff, state budget officers, contracting officers, and gubernatorial policy advisors. This handbook came of learning from and teaching hundreds of people from dozens of states. We’re grateful to the many people who contributed their time and knowledge throughout that process.
+
+### Over de vertalers
+
+...
 
 ## Basic principles of modern software design
 
